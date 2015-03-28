@@ -1,0 +1,1 @@
+This project is to create a chess android app game using both AppInventor and GarboChess javascript chess engine. GarboChess code is modified to allow to receive and pass parameters from/to ai\_chess android app.
